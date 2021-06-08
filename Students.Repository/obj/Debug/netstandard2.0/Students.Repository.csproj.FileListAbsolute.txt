@@ -1,0 +1,14 @@
+F:\Web Project\StudentsApi\Students.Repository\bin\Debug\netstandard2.0\Students.Repository.deps.json
+F:\Web Project\StudentsApi\Students.Repository\bin\Debug\netstandard2.0\Students.Repository.dll
+F:\Web Project\StudentsApi\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.AssemblyInfoInputs.cache
+F:\Web Project\StudentsApi\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.AssemblyInfo.cs
+F:\Web Project\StudentsApi\Students.Repository\bin\Debug\netstandard2.0\Students.Repository.pdb
+F:\Web Project\StudentsApi\Students.Repository\bin\Debug\netstandard2.0\Students.Data.dll
+F:\Web Project\StudentsApi\Students.Repository\bin\Debug\netstandard2.0\Students.Services.dll
+F:\Web Project\StudentsApi\Students.Repository\bin\Debug\netstandard2.0\Students.Data.pdb
+F:\Web Project\StudentsApi\Students.Repository\bin\Debug\netstandard2.0\Students.Services.pdb
+F:\Web Project\StudentsApi\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.csprojAssemblyReference.cache
+F:\Web Project\StudentsApi\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.csproj.CopyComplete
+F:\Web Project\StudentsApi\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.dll
+F:\Web Project\StudentsApi\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.pdb
+F:\Web Project\StudentsApi\Students.Repository\obj\Debug\netstandard2.0\Students.Repository.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+F:\Web Project\StudentsApi\Students.Data\bin\Debug\netstandard2.0\Students.Data.deps.json
+F:\Web Project\StudentsApi\Students.Data\bin\Debug\netstandard2.0\Students.Data.dll
+F:\Web Project\StudentsApi\Students.Data\bin\Debug\netstandard2.0\Students.Data.pdb
+F:\Web Project\StudentsApi\Students.Data\obj\Debug\netstandard2.0\Students.Data.csprojAssemblyReference.cache
+F:\Web Project\StudentsApi\Students.Data\obj\Debug\netstandard2.0\Students.Data.AssemblyInfoInputs.cache
+F:\Web Project\StudentsApi\Students.Data\obj\Debug\netstandard2.0\Students.Data.AssemblyInfo.cs
+F:\Web Project\StudentsApi\Students.Data\obj\Debug\netstandard2.0\Students.Data.dll
+F:\Web Project\StudentsApi\Students.Data\obj\Debug\netstandard2.0\Students.Data.pdb
+F:\Web Project\StudentsApi\Students.Data\obj\Debug\netstandard2.0\Students.Data.csproj.CoreCompileInputs.cache

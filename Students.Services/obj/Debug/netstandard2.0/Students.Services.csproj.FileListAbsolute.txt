@@ -1,0 +1,12 @@
+F:\Web Project\StudentsApi\Students.Services\bin\Debug\netstandard2.0\Students.Services.deps.json
+F:\Web Project\StudentsApi\Students.Services\bin\Debug\netstandard2.0\Students.Services.dll
+F:\Web Project\StudentsApi\Students.Services\bin\Debug\netstandard2.0\Students.Services.pdb
+F:\Web Project\StudentsApi\Students.Services\bin\Debug\netstandard2.0\Students.Data.dll
+F:\Web Project\StudentsApi\Students.Services\bin\Debug\netstandard2.0\Students.Data.pdb
+F:\Web Project\StudentsApi\Students.Services\obj\Debug\netstandard2.0\Students.Services.csprojAssemblyReference.cache
+F:\Web Project\StudentsApi\Students.Services\obj\Debug\netstandard2.0\Students.Services.AssemblyInfoInputs.cache
+F:\Web Project\StudentsApi\Students.Services\obj\Debug\netstandard2.0\Students.Services.AssemblyInfo.cs
+F:\Web Project\StudentsApi\Students.Services\obj\Debug\netstandard2.0\Students.Services.csproj.CopyComplete
+F:\Web Project\StudentsApi\Students.Services\obj\Debug\netstandard2.0\Students.Services.dll
+F:\Web Project\StudentsApi\Students.Services\obj\Debug\netstandard2.0\Students.Services.pdb
+F:\Web Project\StudentsApi\Students.Services\obj\Debug\netstandard2.0\Students.Services.csproj.CoreCompileInputs.cache
